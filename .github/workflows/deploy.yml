@@ -46,9 +46,6 @@ jobs:
       - name: Build with VitePress
         run: npm run docs:build
 
-      - name: Copy public assets
-        run: cp -r .vitepress/public/* .vitepress/dist/
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

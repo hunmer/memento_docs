@@ -57,12 +57,10 @@ const onSwiper = (swiper) => {
 
 // 导航方法
 const slidePrev = () => {
-  console.log('slidePrev', swiperRef.value)
   swiperRef.value?.slidePrev()
 }
 
 const slideNext = () => {
-  console.log('slideNext', swiperRef.value)
   swiperRef.value?.slideNext()
 }
 
