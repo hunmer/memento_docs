@@ -1,6 +1,6 @@
 # 🤖 OpenAI 助手插件
 
-![OpenAI Plugin](/icon.png)
+<PluginSwiper plugin-name="openai" />
 
 ## 插件简介
 

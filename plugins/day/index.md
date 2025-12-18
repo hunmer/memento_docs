@@ -1,5 +1,7 @@
 # Day - 纪念日插件
 
+<PluginSwiper plugin-name="day" />
+
 🎂 **Day 纪念日管理** - 珍藏每一个特殊的日子
 
 ## 核心功能

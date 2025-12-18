@@ -1,6 +1,6 @@
 # Notes - 无限层级笔记插件
 
-![Notes Plugin](/icon.png)
+<PluginSwiper plugin-name="notes" />
 
 📝 **Notes 无限层级笔记** - 构建您的个人知识库
 

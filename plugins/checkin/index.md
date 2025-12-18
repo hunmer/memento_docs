@@ -1,6 +1,6 @@
 # Checkin - 签到管理插件
 
-![Checkin Plugin](/icon.png)
+<PluginSwiper plugin-name="checkin" />
 
 ✅ **Checkin 签到管理** - 培养良好习惯，用坚持成就更好的自己
 

@@ -1,8 +1,8 @@
 # Store - 积分商店插件
 
-![.png)
+<PluginSwiper plugin-name="store" />
 
-🏪Store Plugin](/icon **Store 积分商店** - 通过应用内行为自动获得积分奖励，使用积分兑换虚拟商品
+🏪 **Store 积分商店** - 通过应用内行为自动获得积分奖励，使用积分兑换虚拟商品
 
 ## 核心功能
 

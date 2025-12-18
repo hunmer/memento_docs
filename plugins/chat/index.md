@@ -1,5 +1,7 @@
 # 💬 Chat 聊天插件
 
+<PluginSwiper plugin-name="chat" />
+
 ## 插件简介
 
 Chat 聊天插件是 Memento 的核心功能模块之一，提供类似微信文件助手的多频道聊天体验，并集成 AI 对话功能。支持文本、图片、视频、音频、文件、Markdown 等多种消息类型。

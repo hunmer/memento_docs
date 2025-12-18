@@ -6,7 +6,6 @@ Memento 采用插件化架构，提供 19 个功能插件，覆盖生活的各�
 
 ### 1. Chat - 频道聊天与 AI 对话
 
-![Chat Plugin](/icon.png)
 
 💬 **Chat 聊天插件**
 
@@ -18,7 +17,6 @@ Memento 采用插件化架构，提供 19 个功能插件，覆盖生活的各�
 
 ### 2. OpenAI - AI 助手管理
 
-![OpenAI Plugin](/icon.png)
 
 🤖 **OpenAI 助手**
 
@@ -30,7 +28,6 @@ Memento 采用插件化架构，提供 19 个功能插件，覆盖生活的各�
 
 ### 3. Diary - 日记记录
 
-![Diary Plugin](/icon.png)
 
 📔 **Diary 日记**
 
@@ -42,7 +39,6 @@ Memento 采用插件化架构，提供 19 个功能插件，覆盖生活的各�
 
 ### 4. Notes - 无限层级笔记
 
-![Notes Plugin](/icon.png)
 
 📝 **Notes 笔记**
 
@@ -54,7 +50,6 @@ Memento 采用插件化架构，提供 19 个功能插件，覆盖生活的各�
 
 ### 5. Activity - 活动追踪
 
-![Activity Plugin](/icon.png)
 
 🏃 **Activity 活动**
 
@@ -68,7 +63,6 @@ Memento 采用插件化架构，提供 19 个功能插件，覆盖生活的各�
 
 ### 6. Goods - 物品管理
 
-![Goods Plugin](/icon.png)
 
 📦 **Goods 物品**
 
@@ -80,7 +74,6 @@ Memento 采用插件化架构，提供 19 个功能插件，覆盖生活的各�
 
 ### 7. Bill - 账单管理
 
-![Bill Plugin](/icon.png)
 
 💰 **Bill 账单**
 
@@ -92,7 +85,6 @@ Memento 采用插件化架构，提供 19 个功能插件，覆盖生活的各�
 
 ### 8. Checkin - 签到管理
 
-![Checkin Plugin](/icon.png)
 
 ✅ **Checkin 签到**
 
@@ -106,7 +98,6 @@ Memento 采用插件化架构，提供 19 个功能插件，覆盖生活的各�
 
 ### 9. Calendar - 日历插件
 
-![Calendar Plugin](/icon.png)
 
 📅 **Calendar 日历**
 
@@ -118,7 +109,6 @@ Memento 采用插件化架构，提供 19 个功能插件，覆盖生活的各�
 
 ### 10. Day - 纪念日插件
 
-![Day Plugin](/icon.png)
 
 🎂 **Day 纪念日**
 
@@ -130,7 +120,6 @@ Memento 采用插件化架构，提供 19 个功能插件，覆盖生活的各�
 
 ### 11. Todo - 任务插件
 
-![Todo Plugin](/icon.png)
 
 ✅ **Todo 任务**
 
@@ -142,7 +131,6 @@ Memento 采用插件化架构，提供 19 个功能插件，覆盖生活的各�
 
 ### 12. Tracker - 目标追踪插件
 
-![Tracker Plugin](/icon.png)
 
 🎯 **Tracker 目标追踪**
 
@@ -154,7 +142,6 @@ Memento 采用插件化架构，提供 19 个功能插件，覆盖生活的各�
 
 ### 13. Contact - 联系人插件
 
-![Contact Plugin](/icon.png)
 
 👥 **Contact 联系人**
 
@@ -166,7 +153,6 @@ Memento 采用插件化架构，提供 19 个功能插件，覆盖生活的各�
 
 ### 14. Timer - 计时器插件
 
-![Timer Plugin](/icon.png)
 
 ⏱️ **Timer 计时器**
 
@@ -178,7 +164,6 @@ Memento 采用插件化架构，提供 19 个功能插件，覆盖生活的各�
 
 ### 15. Store - 物品兑换插件
 
-![Store Plugin](/icon.png)
 
 🏪 **Store 物品兑换**
 
@@ -190,7 +175,6 @@ Memento 采用插件化架构，提供 19 个功能插件，覆盖生活的各�
 
 ### 16. Nodes - 节点插件
 
-![Nodes Plugin](/icon.png)
 
 🌳 **Nodes 节点**
 
@@ -202,7 +186,6 @@ Memento 采用插件化架构，提供 19 个功能插件，覆盖生活的各�
 
 ### 17. Calendar Album - 日记相册插件
 
-![Calendar Album Plugin](/icon.png)
 
 📷 **Calendar Album 日记相册**
 
@@ -214,7 +197,6 @@ Memento 采用插件化架构，提供 19 个功能插件，覆盖生活的各�
 
 ### 18. Habits - 习惯管理插件
 
-![Habits Plugin](/icon.png)
 
 💪 **Habits 习惯**
 
@@ -226,7 +208,6 @@ Memento 采用插件化架构，提供 19 个功能插件，覆盖生活的各�
 
 ### 19. Database - 自定义数据库插件
 
-![Database Plugin](/icon.png)
 
 🗄️ **Database 自定义数据库**
 

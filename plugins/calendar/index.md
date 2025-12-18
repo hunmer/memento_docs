@@ -1,6 +1,6 @@
 # Calendar - 日历插件
 
-![Calendar Plugin](/icon.png)
+<PluginSwiper plugin-name="calendar" />
 
 📅 **Calendar 日历** - 强大的时间管理工具，8种视图模式支持
 

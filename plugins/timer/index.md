@@ -4,6 +4,8 @@
 
 # 计时器插件 (Timer Plugin) ⏱️
 
+<PluginSwiper plugin-name="timer" />
+
 ⏱️ **Timer 计时器** - 精确掌控时间，提升工作效率
 
 ## 核心功能

@@ -1,6 +1,6 @@
 # Diary - 日记记录插件
 
-![Diary Plugin](/icon.png)
+<PluginSwiper plugin-name="diary" />
 
 📔 **Diary 日记记录** - 用文字记录生活，用回忆温暖时光
 

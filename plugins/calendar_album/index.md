@@ -1,6 +1,6 @@
 # Calendar Album - 日历相册插件
 
-![Calendar Album Plugin](/icon.png)
+<PluginSwiper plugin-name="calendar_album" />
 
 📓 **Calendar Album 日历相册** - 基于日历的日记管理，支持 Markdown 编辑和图片相册
 

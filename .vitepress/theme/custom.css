@@ -1,0 +1,49 @@
+/* 自定义样式 */
+.plugin-swiper-container {
+  margin: 2rem 0;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.swiper {
+  width: 100%;
+  height: auto;
+}
+
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #f5f5f5;
+}
+
+.swiper-slide img {
+  width: 100%;
+  height: auto;
+  max-height: 600px;
+  object-fit: contain;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  color: #3eaf7c;
+}
+
+.swiper-pagination-bullet-active {
+  background: #3eaf7c;
+}
+
+/* 深色模式支持 */
+.dark .swiper-slide {
+  background: #1e1e1e;
+}
+
+.dark .swiper-button-prev,
+.dark .swiper-button-next {
+  color: #4ade80;
+}
+
+.dark .swiper-pagination-bullet-active {
+  background: #4ade80;
+}

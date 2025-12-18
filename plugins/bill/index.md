@@ -1,6 +1,6 @@
 # Bill - 账单管理插件
 
-![Bill Plugin](/icon.png)
+<PluginSwiper plugin-name="bill" />
 
 💰 **Bill 账单管理** - 智能理财助手，让每一分钱都清清楚楚
 

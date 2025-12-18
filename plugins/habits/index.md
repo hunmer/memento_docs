@@ -1,6 +1,6 @@
 # Habits - 习惯追踪插件
 
-![Habits Plugin](/icon.png)
+<PluginSwiper plugin-name="habits" />
 
 🎯 **习惯追踪插件** - 技能导向的习惯培养系统，通过目标驱动的方式帮助您建立持续的习惯
 

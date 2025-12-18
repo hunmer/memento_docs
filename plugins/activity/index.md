@@ -1,6 +1,6 @@
 # Activity - 活动追踪插件
 
-![Activity Plugin](/icon.png)
+<PluginSwiper plugin-name="activity" />
 
 🏃 **Activity 活动追踪** - 全方位记录您的日常活动，建立完整的生活轨迹
 

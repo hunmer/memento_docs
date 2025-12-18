@@ -6,7 +6,8 @@
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "docs:preview": "vitepress preview",
+    "update:screenshots": "node scripts/update-screenshots.cjs"
   },
   "dependencies": {
     "swiper": "^12.0.3",

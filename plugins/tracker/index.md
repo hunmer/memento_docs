@@ -1,6 +1,6 @@
 # Tracker - 目标追踪插件
 
-![Tracker Plugin](/icon.png)
+<PluginSwiper plugin-name="tracker" />
 
 🎯 **Tracker 目标追踪** - 量化目标进度，见证成长轨迹
 

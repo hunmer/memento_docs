@@ -1,6 +1,6 @@
 # Goods - 物品管理插件
 
-![Goods Plugin](/icon.png)
+<PluginSwiper plugin-name="goods" />
 
 📦 **Goods 物品管理** - 让每件物品都有它的故事
 

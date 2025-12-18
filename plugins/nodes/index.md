@@ -1,6 +1,6 @@
 # Nodes - 节点笔记本插件
 
-![Nodes Plugin](/icon.png)
+<PluginSwiper plugin-name="nodes" />
 
 🌳 **Nodes 节点笔记本** - 无限层级的树形节点管理，让思维更有条理
 

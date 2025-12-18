@@ -1,6 +1,6 @@
 # Contact - 联系人插件
 
-![Contact Plugin](/icon.png)
+<PluginSwiper plugin-name="contact" />
 
 👥 **Contact 联系人管理** - 管理人际网络，珍惜每一份关系
 

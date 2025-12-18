@@ -1,6 +1,6 @@
 # Database - 自定义数据库插件
 
-![Database Plugin](/icon.png)
+<PluginSwiper plugin-name="database" />
 
 🗄️ **Database 自定义数据库** - 灵活数据管理，打造专属数据库
 

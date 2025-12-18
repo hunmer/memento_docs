@@ -1,6 +1,6 @@
 # Todo - 任务管理插件
 
-![Todo Plugin](/icon.png)
+<PluginSwiper plugin-name="todo" />
 
 ✅ **Todo 任务管理** - 高效完成任务，成就更多可能
 
