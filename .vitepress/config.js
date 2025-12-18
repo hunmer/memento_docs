@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/memento_docs/',
   title: 'Memento 使用指南',
   description: 'Memento 个人助手应用使用说明',
   lang: 'zh-CN',
